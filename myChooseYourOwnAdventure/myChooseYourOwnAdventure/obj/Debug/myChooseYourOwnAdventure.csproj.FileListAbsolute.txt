@@ -7,3 +7,9 @@ c:\users\user\documents\visual studio 2015\Projects\myChooseYourOwnAdventure\myC
 C:\Users\User\Documents\GitHub\ProjectSword-Castle\myChooseYourOwnAdventure\myChooseYourOwnAdventure\bin\Debug\myChooseYourOwnAdventure.exe.config
 C:\Users\User\Documents\GitHub\ProjectSword-Castle\myChooseYourOwnAdventure\myChooseYourOwnAdventure\obj\Debug\myChooseYourOwnAdventure.exe
 C:\Users\User\Documents\GitHub\ProjectSword-Castle\myChooseYourOwnAdventure\myChooseYourOwnAdventure\obj\Debug\myChooseYourOwnAdventure.pdb
+C:\Users\hilma\Documents\GitHub\ProjectSword-Castle\myChooseYourOwnAdventure\myChooseYourOwnAdventure\bin\Debug\myChooseYourOwnAdventure.exe.config
+C:\Users\hilma\Documents\GitHub\ProjectSword-Castle\myChooseYourOwnAdventure\myChooseYourOwnAdventure\obj\Debug\myChooseYourOwnAdventure.exe
+C:\Users\hilma\Documents\GitHub\ProjectSword-Castle\myChooseYourOwnAdventure\myChooseYourOwnAdventure\obj\Debug\myChooseYourOwnAdventure.pdb
+C:\Users\hilma\Documents\GitHub\ProjectSword-Castle\myChooseYourOwnAdventure\myChooseYourOwnAdventure\obj\Debug\myChooseYourOwnAdventure.csprojResolveAssemblyReference.cache
+C:\Users\hilma\Documents\GitHub\ProjectSword-Castle\myChooseYourOwnAdventure\myChooseYourOwnAdventure\bin\Debug\myChooseYourOwnAdventure.exe
+C:\Users\hilma\Documents\GitHub\ProjectSword-Castle\myChooseYourOwnAdventure\myChooseYourOwnAdventure\bin\Debug\myChooseYourOwnAdventure.pdb
