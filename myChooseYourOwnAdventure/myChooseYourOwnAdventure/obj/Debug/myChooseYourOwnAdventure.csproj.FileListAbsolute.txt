@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\myChooseYourOwnAdventure\myChooseYourOwnAdventure\bin\Debug\myChooseYourOwnAdventure.exe.config
+c:\users\user\documents\visual studio 2015\Projects\myChooseYourOwnAdventure\myChooseYourOwnAdventure\bin\Debug\myChooseYourOwnAdventure.exe
+c:\users\user\documents\visual studio 2015\Projects\myChooseYourOwnAdventure\myChooseYourOwnAdventure\bin\Debug\myChooseYourOwnAdventure.pdb
+c:\users\user\documents\visual studio 2015\Projects\myChooseYourOwnAdventure\myChooseYourOwnAdventure\obj\Debug\myChooseYourOwnAdventure.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\myChooseYourOwnAdventure\myChooseYourOwnAdventure\obj\Debug\myChooseYourOwnAdventure.exe
+c:\users\user\documents\visual studio 2015\Projects\myChooseYourOwnAdventure\myChooseYourOwnAdventure\obj\Debug\myChooseYourOwnAdventure.pdb
+C:\Users\User\Documents\GitHub\ProjectSword-Castle\myChooseYourOwnAdventure\myChooseYourOwnAdventure\bin\Debug\myChooseYourOwnAdventure.exe.config
+C:\Users\User\Documents\GitHub\ProjectSword-Castle\myChooseYourOwnAdventure\myChooseYourOwnAdventure\obj\Debug\myChooseYourOwnAdventure.exe
+C:\Users\User\Documents\GitHub\ProjectSword-Castle\myChooseYourOwnAdventure\myChooseYourOwnAdventure\obj\Debug\myChooseYourOwnAdventure.pdb
