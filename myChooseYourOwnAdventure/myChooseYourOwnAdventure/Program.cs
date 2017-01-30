@@ -38,7 +38,7 @@ namespace myChooseYourOwnAdventure
             Console.ReadKey();
             Console.WriteLine("Here is your " + warriorWeapon);
             Console.ReadKey();
-            C 
+            Console.WriteLine("Would you like to practice with your " + warriorWeapon + " (1) or get to know people in town (2)"); 
         }
     }
 }
