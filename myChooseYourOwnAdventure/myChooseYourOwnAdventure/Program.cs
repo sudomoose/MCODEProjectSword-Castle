@@ -34,21 +34,20 @@ namespace myChooseYourOwnAdventure
 
         static void Main(string[] args)
         {
-<<<<<<< HEAD
             Console.WriteLine("hello world!");
             Console.WriteLine("Press any key to start!");
-=======
+
             Console.ForegroundColor = ConsoleColor.White;
             Console.BackgroundColor = ConsoleColor.DarkRed;
             welcome();
->>>>>>> origin/master
+
             Console.ReadKey();
             Console.WriteLine("Welcome to the best game on planet e-arrth! Please type your name!");
             var userName = Console.ReadLine();
             Console.WriteLine("Nice to meet you " + userName + "!");
         SelectWarrior:
             #region SelectWarrior
-            Console.WriteLine("Are you an archer(type 1) or a swordsman(type 2)?");
+            Console.WriteLine("Are you an archer (1) or a swordsman (2)?");
             ConsoleKeyInfo warriorInput = Console.ReadKey();
             var warriorType = "";
             var warriorWeapon = "";
